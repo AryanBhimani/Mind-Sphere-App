@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "612575769972",
+    "project_id": "app-3bb8a",
+    "storage_bucket": "app-3bb8a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:612575769972:android:6f083ff10f06ad74b26821",
+        "android_client_info": {
+          "package_name": "com.example.mindsphere"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjiEJzhtd4L89WIllez4DshiVUyH3k_As"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
