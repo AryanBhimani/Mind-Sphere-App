@@ -1,4 +1,7 @@
 import 'package:flutter/material.dart';
+import 'package:mindsphere/Home%20Screen/Ai%20Screen/AI%20Image.dart';
+import 'package:mindsphere/Home%20Screen/Ai%20Screen/AI.dart';
+import 'package:mindsphere/Home%20Screen/Profile%20Screen/profile.dart';
 import 'package:mindsphere/Sign%20in%20Screen/login.dart';
 
 
@@ -164,7 +167,7 @@ class _HomePageState extends State<HomePage> {
               leading: const Icon(Icons.person),
               title: const Text(' My Profile '),
               onTap: () {
-                // Navigator.push(context, MaterialPageRoute(builder: (context) => const Profile()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const ProfileScreen()));
               },
             ),
             ListTile(
@@ -178,7 +181,14 @@ class _HomePageState extends State<HomePage> {
               leading: const Icon(Icons.workspace_premium),
               title: const Text('AI Chat'),
               onTap: () {
-                // Navigator.push(context, MaterialPageRoute(builder: (context) => const Profile()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const textOnly()));
+              },
+            ),
+            ListTile(
+              leading: const Icon(Icons.workspace_premium),
+              title: const Text('AI Image Chat'),
+              onTap: () {
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const textWithImage()));
               },
             ),
             ListTile(

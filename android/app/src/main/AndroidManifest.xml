@@ -2,7 +2,7 @@
     <application
         android:label="Mind Sphere"
         android:name="${applicationName}"
-        android:icon="@mipmap/launcher_icon">
+        android:icon="@drawable/logo">
         <activity
             android:name=".MainActivity"
             android:exported="true"

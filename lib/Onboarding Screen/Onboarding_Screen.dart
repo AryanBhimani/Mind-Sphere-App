@@ -37,7 +37,7 @@ class OnboardingScreen extends StatelessWidget {
             ),
             title: 'Discover Experienced Doctors & AI Chat',
             body: 'Find top doctors and get AI-powered health support in one place.',
-            image: Image.asset('assets/onboarding.png'),
+            image: Image.asset('assets/onboarding.jpg'),
           ),
           PageViewModel(
             decoration: const PageDecoration(
@@ -53,7 +53,7 @@ class OnboardingScreen extends StatelessWidget {
             ),
             title: 'Effortless Appointment Booking',
             body: 'Book appointments effortlessly with top doctors and AI support.',
-            image: Image.asset('assets/onboarding2.png'),
+            image: Image.asset('assets/onboarding2.jpg'),
           ),
           PageViewModel(
             decoration: const PageDecoration(
@@ -69,7 +69,7 @@ class OnboardingScreen extends StatelessWidget {
             ),
             title: 'All-in-One Health AI Assistant',
             body: 'Your all-in-one solution for symptom checks, report analysis, emotional wellness, voice assistance, and offline calls.',
-            image: Image.asset('assets/onboarding3.png'),
+            image: Image.asset('assets/onboarding3.jpg'),
           )
         ],
       ),
