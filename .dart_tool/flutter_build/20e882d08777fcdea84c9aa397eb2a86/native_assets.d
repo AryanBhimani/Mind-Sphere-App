@@ -1,0 +1,1 @@
+ /home/aryan/Documents/mindsphere/.dart_tool/flutter_build/20e882d08777fcdea84c9aa397eb2a86/native_assets.yaml: 
