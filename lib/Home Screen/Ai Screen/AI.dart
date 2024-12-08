@@ -1,9 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:google_gemini/google_gemini.dart';
-// const apiKey = "AIzaSyArTQQbRJoSlVa6D2NPHjsqpE8o2MUXM8k";
 const apiKey = "AIzaSyDBlZs66H4pr9cMT2NycHKgzPZ7MulT0Ao";
-
-// ------------------------------ Text Only ------------------------------
 
 class textOnly extends StatefulWidget {
   const textOnly({super.key});
@@ -43,7 +40,7 @@ class _textOnlyState extends State<textOnly> {
       setState(() {
         loading = false;
         textChat.add({
-          "role": "JARVIS AI",
+          "role": "Mind Sphere",
           "text": value.text,
         });
       });
@@ -52,7 +49,7 @@ class _textOnlyState extends State<textOnly> {
       setState(() {
         loading = false;
         textChat.add({
-          "role": "JARVIS AI",
+          "role": "Mind Sphere",
           "text": error.toString(),
         });
       });
@@ -68,8 +65,9 @@ class _textOnlyState extends State<textOnly> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
+        centerTitle: true,
         backgroundColor: const Color.fromARGB(255, 255, 255, 255),
-        title: Text(
+        title: const Text(
           'AI Chat',
           style: TextStyle(
             color: Colors.black,
@@ -97,7 +95,7 @@ class _textOnlyState extends State<textOnly> {
           ),
           Container(
             alignment: Alignment.bottomRight,
-            margin: const EdgeInsets.all(20),
+            margin: const EdgeInsets.all(10),
             padding: const EdgeInsets.symmetric(horizontal: 15.0),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(40.0),

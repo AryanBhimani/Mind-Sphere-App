@@ -2,10 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:google_gemini/google_gemini.dart';
 import 'package:image_picker/image_picker.dart';
 import 'dart:io';
-// const apiKey = "AIzaSyArTQQbRJoSlVa6D2NPHjsqpE8o2MUXM8k";
 const apiKey = "AIzaSyDBlZs66H4pr9cMT2NycHKgzPZ7MulT0Ao";
-
-// ------------------------------ Text with Image ------------------------------
 
 class textWithImage extends StatefulWidget {
   const textWithImage({
@@ -50,14 +47,14 @@ class _textWithImageState extends State<textWithImage> {
       setState(() {
         loading = false;
         textAndImageChat
-            .add({"role": "JARVIS AI", "text": value.text, "image": ""});
+            .add({"role": "Mind Sphere", "text": value.text, "image": ""});
       });
       scrollToTheEnd();
     }).onError((error, stackTrace) {
       setState(() {
         loading = false;
         textAndImageChat
-            .add({"role": "JARVIS AI", "text": error.toString(), "image": ""});
+            .add({"role": "Mind Sphere", "text": error.toString(), "image": ""});
       });
       scrollToTheEnd();
     });
@@ -72,7 +69,8 @@ class _textWithImageState extends State<textWithImage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: const Color.fromARGB(255, 255, 255, 255),
-        title: Text(
+        centerTitle: true,
+        title: const Text(
           'AI Image Chat',
           style: TextStyle(
             color: Colors.black,
@@ -107,7 +105,7 @@ class _textWithImageState extends State<textWithImage> {
           ),
           Container(
             alignment: Alignment.bottomRight,
-            margin: const EdgeInsets.all(20),
+            margin: const EdgeInsets.all(10),
             padding: const EdgeInsets.symmetric(horizontal: 15.0),
             decoration: BoxDecoration(
               borderRadius: BorderRadius.circular(40.0),
@@ -132,9 +130,7 @@ class _textWithImageState extends State<textWithImage> {
                 IconButton(
                   icon: const Icon(Icons.add_a_photo,color: Color.fromARGB(255, 0, 0, 0)),
                   onPressed: () async {
-                    final XFile? image =
-                    // await picker.pickImage(source: ImageSource.gallery);
-                    await picker.pickImage(source: ImageSource.camera);
+                    final XFile? image = await picker.pickImage(source: ImageSource.camera);
                     setState(() {
                       imageFile = image != null ? File(image.path) : null;
                     });
