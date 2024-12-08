@@ -14,7 +14,7 @@ class _HealthcareState extends State<Healthcare> {
 
   // Sample list of items: images and video URLs
   final List<Map<String, String>> mediaItems = [
-    {'type': 'image', 'url': 'assets/one.jpg'},
+    {'type': 'video', 'url': 'https://www.w3schools.com/html/mov_bbb.mp4'},
     {'type': 'image', 'url': 'https://via.placeholder.com/150'},
     {'type': 'video', 'url': 'https://www.w3schools.com/html/mov_bbb.mp4'},
     {'type': 'image', 'url': 'https://via.placeholder.com/150'},

@@ -3,7 +3,7 @@
     <application
         android:label="Mind Sphere"
         android:name="${applicationName}"
-        android:icon="@drawable/logo">
+        android:icon="@drawable/image">
         <activity
             android:name=".MainActivity"
             android:exported="true"
