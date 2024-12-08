@@ -28,9 +28,9 @@ class _HomePageState extends State<HomePage> {
   final PageController _pageController = PageController();
 
   static const List<Widget> _widgetOptions = <Widget>[
-//     HomeScreen(),
-//     SearchScreen(),
-//     ProfileScreen(),
+    HomeScreen(),
+    SearchScreen(),
+    ProfileScreen(),
   ];
 
   void _onItemTapped(int index) {
@@ -73,7 +73,7 @@ class _HomePageState extends State<HomePage> {
             ),
             ListTile(
               leading: Icon(Icons.home),
-              title: Text('aryanQ'),
+              title: Text('aryan'),
               onTap: () {
                 _onItemTapped(0);
                 Navigator.pop(context);
@@ -124,7 +124,7 @@ class _HomePageState extends State<HomePage> {
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.person),
-            label: 'Profile',
+            label: 'AI',
           ),
         ],
       ),
