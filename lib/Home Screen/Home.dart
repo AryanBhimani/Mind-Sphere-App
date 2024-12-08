@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mindsphere/Home%20Screen/Ai%20Screen/AI%20Image.dart';
 import 'package:mindsphere/Home%20Screen/Ai%20Screen/AI.dart';
+import 'package:mindsphere/Home%20Screen/Ai%20Screen/aii.dart';
+import 'package:mindsphere/Home%20Screen/Healthcare%20Instruction%20Screen/Healthcare_Instruction.dart';
 import 'package:mindsphere/Home%20Screen/Profile%20Screen/profile.dart';
 import 'package:mindsphere/Sign%20in%20Screen/login.dart';
 
@@ -19,6 +20,7 @@ class _HomePageState extends State<HomePage> {
       length: 50,
       child: Scaffold(
         appBar: AppBar(
+          centerTitle: true,
           title: Text("Mind Sphere"),
         ),
         body: SafeArea(
@@ -165,16 +167,16 @@ class _HomePageState extends State<HomePage> {
             SizedBox(height: 40),
             ListTile(
               leading: const Icon(Icons.person),
-              title: const Text(' My Profile '),
+              title: const Text('My Profile'),
               onTap: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context) => const ProfileScreen()));
               },
             ),
             ListTile(
-              leading: const Icon(Icons.book),
-              title: const Text(' My Course '),
+              leading: const Icon(Icons.video_label),
+              title: const Text('Healthcare Instruction'),
               onTap: () {
-                // Navigator.push(context, MaterialPageRoute(builder: (context) => const Profile()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => const Healthcare()));
               },
             ),
             ListTile(
@@ -188,14 +190,7 @@ class _HomePageState extends State<HomePage> {
               leading: const Icon(Icons.workspace_premium),
               title: const Text('AI Image Chat'),
               onTap: () {
-                Navigator.push(context, MaterialPageRoute(builder: (context) => const textWithImage()));
-              },
-            ),
-            ListTile(
-              leading: const Icon(Icons.video_label),
-              title: const Text(' Healthcare Videos '),
-              onTap: () {
-                // Navigator.push(context, MaterialPageRoute(builder: (context) => const Profile()));
+                Navigator.push(context, MaterialPageRoute(builder: (context) => MyListView()));
               },
             ),
             ListTile(

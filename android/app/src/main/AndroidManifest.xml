@@ -1,4 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.mindsphere">
+
     <application
         android:label="Mind Sphere"
         android:name="${applicationName}"
