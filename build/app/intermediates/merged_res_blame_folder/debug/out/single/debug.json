@@ -1,0 +1,58 @@
+[
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/drawable_logo.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/drawable/logo.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-mdpi_launcher_icon.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-mdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-xxxhdpi_launcher_icon.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-xxxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-anydpi-v26_launcher_icon.xml.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-anydpi-v26/launcher_icon.xml"
+    },
+    {
+        "merged": "com.example.mindsphere.app-merged_res-34:/drawable_image.png.flat",
+        "source": "com.example.mindsphere.app-main-28:/drawable/image.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-xxhdpi_launcher_icon.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-xxhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-xhdpi_launcher_icon.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-xhdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/drawable-v21_launch_background.xml.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/drawable-v21/launch_background.xml"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-hdpi_launcher_icon.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-hdpi/launcher_icon.png"
+    },
+    {
+        "merged": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-merged_res-34:/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/home/aryan/.gradle/daemon/8.3/com.example.mindsphere.app-main-28:/mipmap-mdpi/ic_launcher.png"
+    }
+]
