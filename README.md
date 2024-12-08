@@ -20,5 +20,3 @@ samples, guidance on mobile development, and a full API reference.
 -[Linkedin] (https://www.linkedin.com/in/aryanbhimani/)
 -[Github] (https://github.com/AryanBhimani/)
 -[X] (https://x.com/aryan46022)
-# mindsphere-ai-backend
-# Mind-Sphere-App
