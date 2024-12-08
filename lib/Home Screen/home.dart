@@ -80,6 +80,14 @@ class _HomePageState extends State<HomePage> {
               },
             ),
             ListTile(
+              leading: Icon(Icons.home),
+              title: Text('My AI'),
+              onTap: () {
+                _onItemTapped(0);
+                Navigator.pop(context);
+              },
+            ),
+            ListTile(
               leading: Icon(Icons.search),
               title: Text('My Profile'),
               onTap: () {
