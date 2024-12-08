@@ -1,4 +1,4 @@
-# mindsphere
+# Mind Sphere
 
 A new Flutter project.
 
