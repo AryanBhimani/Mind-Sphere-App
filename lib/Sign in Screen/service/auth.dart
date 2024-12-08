@@ -2,7 +2,7 @@ import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:google_sign_in/google_sign_in.dart';
-import 'package:mindsphere/Home%20Screen/home.dart';
+import 'package:mindsphere/Home%20Screen/Home.dart';
 import 'package:mindsphere/Sign%20in%20Screen/service/database.dart';
 import 'package:the_apple_sign_in/the_apple_sign_in.dart';
 

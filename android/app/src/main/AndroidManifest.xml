@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.example.mindsphere">
     <application
-        android:label="mindsphere"
+        android:label="Mind Sphere"
         android:name="${applicationName}"
         android:icon="@mipmap/launcher_icon">
         <activity
