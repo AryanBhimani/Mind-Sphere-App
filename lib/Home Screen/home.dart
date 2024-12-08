@@ -73,7 +73,7 @@ class _HomePageState extends State<HomePage> {
             ),
             ListTile(
               leading: Icon(Icons.home),
-              title: Text('aryan'),
+              title: Text('My Home'),
               onTap: () {
                 _onItemTapped(0);
                 Navigator.pop(context);
@@ -81,7 +81,7 @@ class _HomePageState extends State<HomePage> {
             ),
             ListTile(
               leading: Icon(Icons.search),
-              title: Text('Search'),
+              title: Text('My Profile'),
               onTap: () {
                 _onItemTapped(1);
                 Navigator.pop(context);
@@ -89,7 +89,7 @@ class _HomePageState extends State<HomePage> {
             ),
             ListTile(
               leading: Icon(Icons.person),
-              title: Text('Profile'),
+              title: Text('LogOut'),
               onTap: () {
                 _onItemTapped(2);
                 Navigator.pop(context);
