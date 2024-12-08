@@ -15,3 +15,8 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 # Mind-Sphere-App
+
+-[AryanBhimani] (https://dev-aryanbhimani.pantheonsite.io/)
+-[Linkedin] (https://www.linkedin.com/in/aryanbhimani/)
+-[Github] (https://github.com/AryanBhimani/)
+-[X] (https://x.com/aryan46022)
