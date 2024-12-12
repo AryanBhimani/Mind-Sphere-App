@@ -18,4 +18,4 @@ samples, guidance on mobile development, and a full API reference.
 - [AryanBhimani] (https://dev-aryanbhimani.pantheonsite.io/)
 - [Linkedin] (https://www.linkedin.com/in/aryanbhimani/)
 - [Github] (https://github.com/AryanBhimani/)
-- [X] (https://x.com/aryan46022)
+- [Twitter] (https://x.com/aryan46022)
