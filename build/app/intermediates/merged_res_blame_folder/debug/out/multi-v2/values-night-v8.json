@@ -4,7 +4,7 @@
             "outputFile": "com.example.mindsphere.app-mergeDebugResources-32:/values-night-v8/values-night-v8.xml",
             "map": [
                 {
-                    "source": "/home/aryan/Documents/mindsphere/android/app/src/main/res/values-night/styles.xml",
+                    "source": "/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/res/values-night/styles.xml",
                     "from": {
                         "startLines": "3,14",
                         "startColumns": "4,4",

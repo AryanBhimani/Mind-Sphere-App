@@ -25,19 +25,19 @@ com.example.mindsphere.app-jetified-media3-exoplayer-1.4.1-23 /home/aryan/.gradl
 com.example.mindsphere.app-lifecycle-livedata-core-2.7.0-24 /home/aryan/.gradle/caches/transforms-3/df49c5ccabcc93c70e3456a49e420f4c/transformed/lifecycle-livedata-core-2.7.0/res
 com.example.mindsphere.app-jetified-tracing-1.2.0-25 /home/aryan/.gradle/caches/transforms-3/e87384b63de789d9dc453be8bf8576b8/transformed/jetified-tracing-1.2.0/res
 com.example.mindsphere.app-jetified-firebase-common-21.0.0-26 /home/aryan/.gradle/caches/transforms-3/eca4333cb219929078e4b58375a8cccc/transformed/jetified-firebase-common-21.0.0/res
-com.example.mindsphere.app-debug-27 /home/aryan/Documents/mindsphere/android/app/src/debug/res
-com.example.mindsphere.app-main-28 /home/aryan/Documents/mindsphere/android/app/src/main/res
-com.example.mindsphere.app-google-services-29 /home/aryan/Documents/mindsphere/build/app/generated/res/google-services/debug
-com.example.mindsphere.app-pngs-30 /home/aryan/Documents/mindsphere/build/app/generated/res/pngs/debug
-com.example.mindsphere.app-resValues-31 /home/aryan/Documents/mindsphere/build/app/generated/res/resValues/debug
-com.example.mindsphere.app-packageDebugResources-32 /home/aryan/Documents/mindsphere/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
-com.example.mindsphere.app-packageDebugResources-33 /home/aryan/Documents/mindsphere/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
-com.example.mindsphere.app-merged_res-34 /home/aryan/Documents/mindsphere/build/app/intermediates/merged_res/debug
-com.example.mindsphere.app-packaged_res-35 /home/aryan/Documents/mindsphere/build/cloud_firestore/intermediates/packaged_res/debug
-com.example.mindsphere.app-packaged_res-36 /home/aryan/Documents/mindsphere/build/firebase_auth/intermediates/packaged_res/debug
-com.example.mindsphere.app-packaged_res-37 /home/aryan/Documents/mindsphere/build/firebase_core/intermediates/packaged_res/debug
-com.example.mindsphere.app-packaged_res-38 /home/aryan/Documents/mindsphere/build/flutter_keyboard_visibility/intermediates/packaged_res/debug
-com.example.mindsphere.app-packaged_res-39 /home/aryan/Documents/mindsphere/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
-com.example.mindsphere.app-packaged_res-40 /home/aryan/Documents/mindsphere/build/google_sign_in_android/intermediates/packaged_res/debug
-com.example.mindsphere.app-packaged_res-41 /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/packaged_res/debug
-com.example.mindsphere.app-packaged_res-42 /home/aryan/Documents/mindsphere/build/video_player_android/intermediates/packaged_res/debug
+com.example.mindsphere.app-debug-27 /home/aryan/Documents/Flutter /mindsphere/android/app/src/debug/res
+com.example.mindsphere.app-main-28 /home/aryan/Documents/Flutter /mindsphere/android/app/src/main/res
+com.example.mindsphere.app-google-services-29 /home/aryan/Documents/Flutter /mindsphere/build/app/generated/res/google-services/debug
+com.example.mindsphere.app-pngs-30 /home/aryan/Documents/Flutter /mindsphere/build/app/generated/res/pngs/debug
+com.example.mindsphere.app-resValues-31 /home/aryan/Documents/Flutter /mindsphere/build/app/generated/res/resValues/debug
+com.example.mindsphere.app-packageDebugResources-32 /home/aryan/Documents/Flutter /mindsphere/build/app/intermediates/incremental/debug/packageDebugResources/merged.dir
+com.example.mindsphere.app-packageDebugResources-33 /home/aryan/Documents/Flutter /mindsphere/build/app/intermediates/incremental/debug/packageDebugResources/stripped.dir
+com.example.mindsphere.app-merged_res-34 /home/aryan/Documents/Flutter /mindsphere/build/app/intermediates/merged_res/debug
+com.example.mindsphere.app-packaged_res-35 /home/aryan/Documents/Flutter /mindsphere/build/cloud_firestore/intermediates/packaged_res/debug
+com.example.mindsphere.app-packaged_res-36 /home/aryan/Documents/Flutter /mindsphere/build/firebase_auth/intermediates/packaged_res/debug
+com.example.mindsphere.app-packaged_res-37 /home/aryan/Documents/Flutter /mindsphere/build/firebase_core/intermediates/packaged_res/debug
+com.example.mindsphere.app-packaged_res-38 /home/aryan/Documents/Flutter /mindsphere/build/flutter_keyboard_visibility/intermediates/packaged_res/debug
+com.example.mindsphere.app-packaged_res-39 /home/aryan/Documents/Flutter /mindsphere/build/flutter_plugin_android_lifecycle/intermediates/packaged_res/debug
+com.example.mindsphere.app-packaged_res-40 /home/aryan/Documents/Flutter /mindsphere/build/google_sign_in_android/intermediates/packaged_res/debug
+com.example.mindsphere.app-packaged_res-41 /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/packaged_res/debug
+com.example.mindsphere.app-packaged_res-42 /home/aryan/Documents/Flutter /mindsphere/build/video_player_android/intermediates/packaged_res/debug

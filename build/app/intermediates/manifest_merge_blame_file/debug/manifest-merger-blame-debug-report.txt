@@ -13,8 +13,8 @@
 13         to allow setting breakpoints, to provide hot reload, etc.
 14    -->
 15    <uses-permission android:name="android.permission.INTERNET" />
-15-->/home/aryan/Documents/mindsphere/android/app/src/debug/AndroidManifest.xml:6:5-66
-15-->/home/aryan/Documents/mindsphere/android/app/src/debug/AndroidManifest.xml:6:22-64
+15-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/debug/AndroidManifest.xml:6:5-66
+15-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/debug/AndroidManifest.xml:6:22-64
 16    <!--
 17     Required to query activities that can process text, see:
 18         https://developer.android.com/training/package-visibility and
@@ -23,16 +23,16 @@
 21         In particular, this is used by the Flutter engine in io.flutter.plugin.text.ProcessTextPlugin.
 22    -->
 23    <queries>
-23-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:40:5-45:15
+23-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:40:5-45:15
 24        <intent>
-24-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:41:9-44:18
+24-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:41:9-44:18
 25            <action android:name="android.intent.action.PROCESS_TEXT" />
-25-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:42:13-72
-25-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:42:21-70
+25-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:42:13-72
+25-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:42:21-70
 26
 27            <data android:mimeType="text/plain" />
-27-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:43:13-50
-27-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:43:19-48
+27-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:43:13-50
+27-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:43:19-48
 28        </intent>
 29    </queries>
 30
@@ -97,31 +97,31 @@
 79            android:value="2" />
 80
 81        <service
-81-->[:cloud_firestore] /home/aryan/Documents/mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
+81-->[:cloud_firestore] /home/aryan/Documents/Flutter /mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:9-12:19
 82            android:name="com.google.firebase.components.ComponentDiscoveryService"
-82-->[:cloud_firestore] /home/aryan/Documents/mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:18-89
+82-->[:cloud_firestore] /home/aryan/Documents/Flutter /mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:8:18-89
 83            android:directBootAware="true"
 83-->[com.google.firebase:firebase-common:21.0.0] /home/aryan/.gradle/caches/transforms-3/eca4333cb219929078e4b58375a8cccc/transformed/jetified-firebase-common-21.0.0/AndroidManifest.xml:32:13-43
 84            android:exported="false" >
 84-->[com.google.firebase:firebase-auth:23.1.0] /home/aryan/.gradle/caches/transforms-3/7fce39efd1824ffdaf2815742dec1bfb/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:68:13-37
 85            <meta-data
-85-->[:cloud_firestore] /home/aryan/Documents/mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+85-->[:cloud_firestore] /home/aryan/Documents/Flutter /mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
 86                android:name="com.google.firebase.components:io.flutter.plugins.firebase.firestore.FlutterFirebaseFirestoreRegistrar"
-86-->[:cloud_firestore] /home/aryan/Documents/mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-134
+86-->[:cloud_firestore] /home/aryan/Documents/Flutter /mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-134
 87                android:value="com.google.firebase.components.ComponentRegistrar" />
-87-->[:cloud_firestore] /home/aryan/Documents/mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+87-->[:cloud_firestore] /home/aryan/Documents/Flutter /mindsphere/build/cloud_firestore/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
 88            <meta-data
-88-->[:firebase_auth] /home/aryan/Documents/mindsphere/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+88-->[:firebase_auth] /home/aryan/Documents/Flutter /mindsphere/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
 89                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
-89-->[:firebase_auth] /home/aryan/Documents/mindsphere/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
+89-->[:firebase_auth] /home/aryan/Documents/Flutter /mindsphere/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
 90                android:value="com.google.firebase.components.ComponentRegistrar" />
-90-->[:firebase_auth] /home/aryan/Documents/mindsphere/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+90-->[:firebase_auth] /home/aryan/Documents/Flutter /mindsphere/build/firebase_auth/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
 91            <meta-data
-91-->[:firebase_core] /home/aryan/Documents/mindsphere/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
+91-->[:firebase_core] /home/aryan/Documents/Flutter /mindsphere/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:9:13-11:85
 92                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
-92-->[:firebase_core] /home/aryan/Documents/mindsphere/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
+92-->[:firebase_core] /home/aryan/Documents/Flutter /mindsphere/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:10:17-124
 93                android:value="com.google.firebase.components.ComponentRegistrar" />
-93-->[:firebase_core] /home/aryan/Documents/mindsphere/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
+93-->[:firebase_core] /home/aryan/Documents/Flutter /mindsphere/build/firebase_core/intermediates/merged_manifest/debug/AndroidManifest.xml:11:17-82
 94            <meta-data
 94-->[com.google.firebase:firebase-auth:23.1.0] /home/aryan/.gradle/caches/transforms-3/7fce39efd1824ffdaf2815742dec1bfb/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:69:13-71:85
 95                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
@@ -155,43 +155,43 @@
 109        </service>
 110
 111        <provider
-111-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:9-17:20
+111-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:9:9-17:20
 112            android:name="io.flutter.plugins.imagepicker.ImagePickerFileProvider"
-112-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-82
+112-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:10:13-82
 113            android:authorities="com.example.mindsphere.flutter.image_provider"
-113-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
+113-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:11:13-74
 114            android:exported="false"
-114-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
+114-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:12:13-37
 115            android:grantUriPermissions="true" >
-115-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-47
+115-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:13:13-47
 116            <meta-data
-116-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-16:75
+116-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:14:13-16:75
 117                android:name="android.support.FILE_PROVIDER_PATHS"
-117-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-67
+117-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:15:17-67
 118                android:resource="@xml/flutter_image_picker_file_paths" />
-118-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-72
+118-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:16:17-72
 119        </provider> <!-- Trigger Google Play services to install the backported photo picker module. -->
 120        <service
-120-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-31:19
+120-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:19:9-31:19
 121            android:name="com.google.android.gms.metadata.ModuleDependencies"
-121-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-78
+121-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:20:13-78
 122            android:enabled="false"
-122-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-36
+122-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:21:13-36
 123            android:exported="false" >
-123-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
+123-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:22:13-37
 124            <intent-filter>
-124-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-26:29
+124-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:24:13-26:29
 125                <action android:name="com.google.android.gms.metadata.MODULE_DEPENDENCIES" />
-125-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-94
-125-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:25-91
+125-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:17-94
+125-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:25:25-91
 126            </intent-filter>
 127
 128            <meta-data
-128-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-30:36
+128-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:28:13-30:36
 129                android:name="photopicker_activity:0:required"
-129-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-63
+129-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:29:17-63
 130                android:value="" />
-130-->[:image_picker_android] /home/aryan/Documents/mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-33
+130-->[:image_picker_android] /home/aryan/Documents/Flutter /mindsphere/build/image_picker_android/intermediates/merged_manifest/debug/AndroidManifest.xml:30:17-33
 131        </service>
 132
 133        <activity
@@ -220,7 +220,7 @@
 143-->[com.google.firebase:firebase-auth:23.1.0] /home/aryan/.gradle/caches/transforms-3/7fce39efd1824ffdaf2815742dec1bfb/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:39:27-75
 144
 145                <data
-145-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:43:13-50
+145-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:43:13-50
 146                    android:host="firebase.auth"
 147                    android:path="/"
 148                    android:scheme="genericidp" />
@@ -252,7 +252,7 @@
 161-->[com.google.firebase:firebase-auth:23.1.0] /home/aryan/.gradle/caches/transforms-3/7fce39efd1824ffdaf2815742dec1bfb/transformed/jetified-firebase-auth-23.1.0/AndroidManifest.xml:39:27-75
 162
 163                <data
-163-->/home/aryan/Documents/mindsphere/android/app/src/main/AndroidManifest.xml:43:13-50
+163-->/home/aryan/Documents/Flutter /mindsphere/android/app/src/main/AndroidManifest.xml:43:13-50
 164                    android:host="firebase.auth"
 165                    android:path="/"
 166                    android:scheme="recaptcha" />
