@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-![](assets//Onboarding.jpg)
+![assets](assets/Onboarding.jpg)
 
 ## Getting Started
 
