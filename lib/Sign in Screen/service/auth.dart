@@ -31,6 +31,7 @@ class AuthMethods {
 
     User? userDetails = result.user;
 
+    // ignore: unnecessary_null_comparison
     if (result != null) {
       Map<String, dynamic> userInfoMap = {
         "email": userDetails!.email,

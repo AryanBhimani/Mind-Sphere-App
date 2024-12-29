@@ -19,10 +19,12 @@ class _SignUpState extends State<SignUp> {
   final _formkey = GlobalKey<FormState>();
 
   registration() async {
+    // ignore: unnecessary_null_comparison
     if (password != null &&
         namecontroller.text != "" &&
         mailcontroller.text != "") {
       try {
+        // ignore: unused_local_variable
         UserCredential userCredential = await FirebaseAuth.instance
             .createUserWithEmailAndPassword(email: email, password: password);
         ScaffoldMessenger.of(context).showSnackBar(SnackBar(
