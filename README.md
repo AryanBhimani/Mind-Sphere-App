@@ -17,14 +17,14 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-<a><img src="assets/images/1.jpg" width="100" /></a>
-<a><img src="assets/images/2.jpg" width="100" /></a>
-<a><img src="assets/images/3.jpg" width="100" /></a>
-<a><img src="assets/images/4.jpg" width="100" /></a>
-<a><img src="assets/images/5.jpg" width="100" /></a>
-<a><img src="assets/images/6.jpg" width="100" /></a>
-<a><img src="assets/images/7.jpg" width="100" /></a>
-<a><img src="assets/images/8.jpg" width="100" /></a>
+<a><img src="assets/images/1.jpg" width="200" /></a>
+<a><img src="assets/images/2.jpg" width="200" /></a>
+<a><img src="assets/images/3.jpg" width="200" /></a>
+<a><img src="assets/images/4.jpg" width="200" /></a>
+<a><img src="assets/images/5.jpg" width="200" /></a>
+<a><img src="assets/images/6.jpg" width="200" /></a>
+<a><img src="assets/images/7.jpg" width="200" /></a>
+<a><img src="assets/images/8.jpg" width="200" /></a>
 
 <a href="https://dev-aryanbhimani.pantheonsite.io/" target="_blank"><img src="assets/portfolio.png" width="50" ></a>
 <a href="https://www.linkedin.com/in/aryanbhimani/" target="_blank"><img src="assets/linkedin.png" width="50"></a>
