@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/mindsphere.iml" filepath="$PROJECT_DIR$/mindsphere.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mindsphere.iml" filepath="$PROJECT_DIR$/Mindsphere.iml" />
       <module fileurl="file://$PROJECT_DIR$/android/mindsphere_android.iml" filepath="$PROJECT_DIR$/android/mindsphere_android.iml" />
     </modules>
   </component>
